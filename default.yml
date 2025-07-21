@@ -20,8 +20,8 @@ org_settings:
     org_name: Super Users
   webhook_settings:
     activities_webhook:
-     enable_activities_webhook: true
-     destination_url: https://yahoo.com
+    enable_activities_webhook: true
+    destination_url: https://yahoo.com
   server_settings:
     server_url: $FLEET_URL
   org_info:
