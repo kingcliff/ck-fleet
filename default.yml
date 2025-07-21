@@ -16,9 +16,8 @@ org_settings:
   host_expiry_settings
     host_expiry_enable: true
     host_expiry_window: 30
-org_settings:
-    org_info:
-     org_name: Super Users
+  org_info:
+    org_name: Super Users
     webhook_settings:
      activities_webhook:
       enable_activities_webhook: true
